@@ -1,1 +1,1 @@
-# erint01_cklad
+# perspektiva-tc-sklad
